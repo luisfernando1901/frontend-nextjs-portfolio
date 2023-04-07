@@ -11,6 +11,8 @@
 
 This is a frontend portfolio project simulating a social media user profile. Besides the UI itself, this repo shows how the project is structured, using Atomic Design Pattern.
 
+![Screenshot 1](screenshots/screenshot1.png)
+
 ## Build With
 
 - NextJS (v13.2.4)
